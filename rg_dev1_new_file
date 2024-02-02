@@ -1,0 +1,4 @@
+My first Git file get created
+I will Add this file to the Repository by using Commit & Push commands.
+"Commit" Command is used to move the file from "Working Area" to the "Index/Staging Area".
+"Push" Command is used to move the file from "Local Area" to the "Remote REPOSITORY"
